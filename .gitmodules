@@ -2,3 +2,8 @@
 	path = OCA/l10n-italy
 	url = git@github.com:OCA/l10n-italy.git
 	branch = 14.0
+
+[submodule "agavariat/account_tax_balance"]
+	path = agavariat/account_tax_balance
+	url = git@github.com:agavariat/account_tax_balance.git
+	branch = main
