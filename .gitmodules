@@ -7,3 +7,8 @@
 	path = agavariat/account_tax_balance
 	url = git@github.com:agavariat/account_tax_balance.git
 	branch = main
+
+[submodule "OCA/account-financial-tools"]
+	path = OCA/account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 14.0
