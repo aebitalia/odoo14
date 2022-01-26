@@ -22,3 +22,13 @@
 	path = OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
 	branch = 14.0
+
+[submodule "OCA/partner-contact/partner_firstname"]
+	path = OCA/partner-contact/partner_firstname
+	url = git@github.com:OCA/partner-contact.git
+	branch = 14.0
+
+[submodule "odoo-web-addons"]
+	path = odoo-web-addons
+	url = git@github.com:Numigi/odoo-web-addons.git
+	branch = 14.0
